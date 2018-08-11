@@ -1145,7 +1145,7 @@
 	class Exile_Car_Lada_Green 				{ quality = 2; price = 6000; };
 	class Exile_Car_Lada_Hipster 			{ quality = 2; price = 6000; };
 	class Exile_Car_Lada_Red 				{ quality = 2; price = 6000; };
-	class Exile_Car_Lada_Taxi 				{ quality = 2; price = 6000; };
+	//class Exile_Car_Lada_Taxi 				{ quality = 2; price = 6000; }; //Throws console errors
 	class Exile_Car_Lada_White 				{ quality = 2; price = 6000; };
 
 	///////////////////////////////////////////////////////////////////////////////
