@@ -478,7 +478,8 @@ class RHSUSAF_LauncherAmmo
 	{
 	name = "RHSUSAF Launcher Ammo";
 	icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-	items[] = {
+	items[] = 
+	{
 		"rhs_fgm148_magazine_AT",
 		"rhs_fim92_mag",
 		"rhs_mag_maaws_HE",
@@ -630,7 +631,7 @@ class RHSUSAF_Planes
 	icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
 	items[] =
 	{
-		"RHS_C130J",
+		"RHS_C130J"
 	};
 };
 
@@ -641,7 +642,7 @@ class RHSUSAF_PlanesArmed
 	items[] =
 	{
 		"RHS_A10",
-		"rhsusf_f22",
+		"rhsusf_f22"
 	};
 };
 
