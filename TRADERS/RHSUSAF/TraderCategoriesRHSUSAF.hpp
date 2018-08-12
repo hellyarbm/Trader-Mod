@@ -478,7 +478,7 @@ class RHSUSAF_LauncherAmmo
 	{
 	name = "RHSUSAF Launcher Ammo";
 	icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-	items[] = 
+	items[] =
 	{
 		"rhs_fgm148_magazine_AT",
 		"rhs_fim92_mag",
